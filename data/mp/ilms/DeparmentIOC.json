@@ -1,0 +1,30 @@
+{ 
+	"tenantId": "mp",
+    	"moduleName": "ilms",
+    	"DepartmentIOC": [{
+            "name": "District Educational Officer",
+            "code": "IOC001",
+            "active": true
+        },
+        {
+            "name": "District project coordinator ",
+            "code": "IOC002",
+            "active": true
+        },
+	{
+            "name": "Under Secretary ",
+            "code": "IOC003",
+            "active": true
+        },
+	{
+            "name": "Deputy Director",
+            "code": "IOC004",
+            "active": true
+        },
+	{
+            "name": "Joint Director",
+            "code": "IOC005",
+            "active": true
+        }
+    ]
+}
